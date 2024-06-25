@@ -1,7 +1,7 @@
 
 ### Notes:
 
-- Replace `<repository-url>` with the actual URL of your Git repository.
+- Replace `https://github.com/MadhavLangaliya/string-calculator.git` with the actual URL of your Git repository.
 - Ensure you have a `LICENSE` file in your project directory with the appropriate licensing details.
 - Customize the `README.md` further based on specific features, instructions, or additional details relevant to your implementation.
 - Provide clear instructions for installation, usage, testing, contributing, and licensing to facilitate understanding and collaboration for users and contributors.

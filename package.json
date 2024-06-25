@@ -1,0 +1,19 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "description": "String Calculator Kata implementation in Node.js",
+  "main": "StringCalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.test.js"
+    ]
+  },
+  "author": "",
+  "license": "ISC"
+}

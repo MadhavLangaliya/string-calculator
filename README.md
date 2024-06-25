@@ -50,3 +50,13 @@ The String Calculator Kata is a programming exercise that focuses on developing 
    ```bash
    git clone https://github.com/MadhavLangaliya/string-calculator.git
    cd string-calculator
+
+
+## Install dependencies:
+
+npm install
+
+## Run tests:
+
+npm test
+
